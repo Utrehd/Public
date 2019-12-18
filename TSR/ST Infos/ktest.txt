@@ -1,0 +1,18 @@
+﻿//Das ist ein Programm um das TS zu testen
+
+HEADER_START								//Der Header Start
+	PROG_NAME 	= test2						//Der ST TS
+	LOOP      	= ON						//Endlosschlaufe
+	DATE		= 3.05.16					//Falsches Datum
+	USER_NAME	= Samuel A. Marti			//Zu langer Name
+HEADER_END								//Der Header end
+
+//Mit den änderungen werden nun tabulatoren und Leerzeichen ignoriert
+
+PROGRAMM_START
+	STARTPOINT	0:0
+	GOTO		0:0
+	CLICK		88:58
+	CLICK		171:221
+PROGRAMM_END
+

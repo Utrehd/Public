@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<languagedata>
+	<fileversion major='1' minor='5'/>
+	<systemkeyboard path="de_CH"/>
+	<textprint mode="text" fontid='0' size='10' bold='0' italic='0' underline='0' strikeout='0'/>
+	<fonts>
+		<font id='0' fontname="Arial" filename="Arial.ttf" fontsizefactor='100'/>
+		<font id='1' fontname="Tahoma" filename="Tahoma.ttf" fontsizefactor='100'/>
+	</fonts>
+	<texts>
+		<standard>
+			<s0><![CDATA[]]></s0>
+			<s1><![CDATA[TSR Com]]></s1>
+			<s2><![CDATA[xExecute]]></s2>
+			<s3><![CDATA[iCom]]></s3>
+			<s4><![CDATA[xError]]></s4>
+			<s5><![CDATA[xDone]]></s5>
+			<s6><![CDATA[xBusy]]></s6>
+			<s7><![CDATA[wState]]></s7>
+			<s8><![CDATA[stReceivedData]]></s8>
+			<s9><![CDATA[stSendData]]></s9>
+			<s10><![CDATA[FB TSR Com]]></s10>
+			<s11><![CDATA[TSR Libary Test]]></s11>
+			<s12><![CDATA[FB Connect with TSR]]></s12>
+			<s13><![CDATA[FB Get TSR position]]></s13>
+			<s14><![CDATA[FN Set TSR startpoint]]></s14>
+			<s15><![CDATA[FB Move TSR xy]]></s15>
+			<s16><![CDATA[FB Go to TSR xy]]></s16>
+			<s17><![CDATA[FB TSR Pen up down]]></s17>
+			<s18><![CDATA[FB TSR Com]]></s18>
+			<s19><![CDATA[Zurück]]></s19>
+			<s20><![CDATA[FB Connect with TSR]]></s20>
+			<s21><![CDATA[Eingänge]]></s21>
+			<s22><![CDATA[Ausgänge]]></s22>
+			<s23><![CDATA[Standard]]></s23>
+			<s24><![CDATA[Spezifisch]]></s24>
+			<s25><![CDATA[xExecute]]></s25>
+			<s26><![CDATA[ON]]></s26>
+			<s27><![CDATA[OFF]]></s27>
+			<s28><![CDATA[iCom]]></s28>
+			<s29><![CDATA[xBusy]]></s29>
+			<s30><![CDATA[xDone]]></s30>
+			<s31><![CDATA[xBusy]]></s31>
+			<s32><![CDATA[xError]]></s32>
+			<s33><![CDATA[wState]]></s33>
+			<s34><![CDATA[FB Get TSR position]]></s34>
+			<s35><![CDATA[iPosx]]></s35>
+			<s36><![CDATA[iPosy]]></s36>
+			<s37><![CDATA[FB Go to TSR xy]]></s37>
+			<s38><![CDATA[iGotoy]]></s38>
+			<s39><![CDATA[iGotox]]></s39>
+			<s40><![CDATA[FB Move TSR xy]]></s40>
+			<s41><![CDATA[iMovx]]></s41>
+			<s42><![CDATA[iMovy]]></s42>
+			<s43><![CDATA[FB TSR Pen up down]]></s43>
+			<s44><![CDATA[xPen]]></s44>
+			<s45><![CDATA[iStartpointx]]></s45>
+			<s46><![CDATA[iStartpointy]]></s46>
+			<s47><![CDATA[FB TSR Com]]></s47>
+			<s48><![CDATA[iCom]]></s48>
+			<s49><![CDATA[OFF]]></s49>
+			<s50><![CDATA[ON]]></s50>
+			<s51><![CDATA[OFF]]></s51>
+			<s52><![CDATA[ON]]></s52>
+			<s53><![CDATA[OFF]]></s53>
+			<s54><![CDATA[ON]]></s54>
+			<s55><![CDATA[OFF]]></s55>
+			<s56><![CDATA[ON]]></s56>
+			<s57><![CDATA[OFF]]></s57>
+			<s58><![CDATA[ON]]></s58>
+			<s59><![CDATA[OFF]]></s59>
+			<s60><![CDATA[ON]]></s60>
+			<s61><![CDATA[OFF]]></s61>
+			<s62><![CDATA[ON]]></s62>
+			<s63><![CDATA[TSR Applikation]]></s63>
+			<s64><![CDATA[OFF]]></s64>
+			<s65><![CDATA[ON]]></s65>
+			<s66><![CDATA[SteuerFile einlesen]]></s66>
+			<s67><![CDATA[SteuerFile Ausführen]]></s67>
+			<s68><![CDATA[Name des Steuer Files]]></s68>
+			<s69><![CDATA[Com Port]]></s69>
+			<s70><![CDATA[Programm Code]]></s70>
+			<s71><![CDATA[Zurück]]></s71>
+			<s72><![CDATA[Programm]]></s72>
+			<s73><![CDATA[Programm:]]></s73>
+			<s74><![CDATA[Ersteller:]]></s74>
+			<s75><![CDATA[Datum:]]></s75>
+			<s76><![CDATA[LTx_Abbruch]]></s76>
+			<s77><![CDATA[OFF]]></s77>
+			<s78><![CDATA[ON]]></s78>
+			<s79><![CDATA[Header Einlesen]]></s79>
+			<s80><![CDATA[Programm Ausführen]]></s80>
+			<s81><![CDATA[Start]]></s81>
+			<s82><![CDATA[Stop]]></s82>
+			<s83><![CDATA[Einstellungen]]></s83>
+			<s84><![CDATA[Abbruch/Reset]]></s84>
+			<s85><![CDATA[Durchlauf Prozess]]></s85>
+			<s86><![CDATA[Main Prozess]]></s86>
+			<s87><![CDATA[Gemachte Durchläufe]]></s87>
+			<s88><![CDATA[Durchlaufzeit des letzten Durchlaufes]]></s88>
+			<s89><![CDATA[Ø Zykluszeit]]></s89>
+			<s90><![CDATA[Info]]></s90>
+			<s91><![CDATA[Hauptmenü]]></s91>
+			<s92><![CDATA[Eaton Automation Samuel A. Marti 31.03.2014 ]]></s92>
+			<s93><![CDATA[TSR Applikation]]></s93>
+			<s94><![CDATA[Header Einlesen]]></s94>
+			<s95><![CDATA[Steuer File Ausführen]]></s95>
+			<s96><![CDATA[Steuerfile Ausführen]]></s96>
+			<s97><![CDATA[Steuerprogramm Ausführen]]></s97>
+			<s98><![CDATA[Steuerprogramm Ausführen]]></s98>
+			<s99><![CDATA[Steuerprogramm 
+Ausführen]]></s99>
+			<s100><![CDATA[Steuerprogramm 
+Ausführen]]></s100>
+			<s101><![CDATA[Steuerprogramm 
+Einlesen]]></s101>
+			<s102><![CDATA[Steuerprogramm 
+Einlesen]]></s102>
+			<s103><![CDATA[Com Port]]></s103>
+			<s104><![CDATA[Timeout! ]]></s104>
+			<s105><![CDATA[File Name vom Steuerprogramm]]></s105>
+			<s106><![CDATA[File Name vom 
+Steuerprogramm]]></s106>
+			<s107><![CDATA[Steuerprogramm Informationen]]></s107>
+			<s108><![CDATA[Steuerprogramm Informationen:]]></s108>
+			<s109><![CDATA[User Name]]></s109>
+			<s110><![CDATA[Drücken Sie Reset und
+überprüfen Sie die Einstellungen.]]></s110>
+			<s111><![CDATA[Programm Name]]></s111>
+			<s112><![CDATA[Eaton Automation Samuel A. Marti 15.11.2013 ]]></s112>
+			<s113><![CDATA[Soll Durchläufe]]></s113>
+			<s114><![CDATA[User Name:]]></s114>
+			<s115><![CDATA[Programm Name:]]></s115>
+			<s116><![CDATA[1]]></s116>
+			<s117><![CDATA[1:]]></s117>
+			<s118><![CDATA[2:]]></s118>
+			<s119><![CDATA[3:]]></s119>
+			<s120><![CDATA[4:]]></s120>
+			<s121><![CDATA[Loop ?]]></s121>
+			<s122><![CDATA[Loop:]]></s122>
+			<s123><![CDATA[OFF]]></s123>
+			<s124><![CDATA[ON]]></s124>
+			<s125><![CDATA[Info]]></s125>
+			<s126><![CDATA[Info]]></s126>
+			<s127><![CDATA[Info]]></s127>
+			<s128><![CDATA[Info]]></s128>
+			<s129><![CDATA[Info]]></s129>
+			<s130><![CDATA[Hauptmenü]]></s130>
+			<s131><![CDATA[Hauptmenü]]></s131>
+			<s132><![CDATA[Dieses Programm dient dazu die I/O Geschwindigkeit zu 
+Messen. Die Messdaten werden im einem .txt File 
+gespeichert.]]></s132>
+			<s133><![CDATA[Es sind alle Parameter schon voreingestellt.
+Wenn Sie denoch etwas ändern wollen können sie das
+in den Einstellungen tun.]]></s133>
+			<s134><![CDATA[ACHTUNG!! Sie müssen die richtige Kommunikations
+art in den Einstellungen wählen.]]></s134>
+			<s135><![CDATA[Mit diesem Programm kann man den TSR ansteuern. Dabei dient diese
+]]></s135>
+			<s136><![CDATA[Mit diesem Programm kann man den TSR ansteuern. Dabei dient dieses
+Programm Hauptsächlich als Interpreter für ein vom User erstelltes Steuerprogramm.
+]]></s136>
+			<s137><![CDATA[Mit diesem Programm kann man den TSR ansteuern. Dabei dient dieses
+Programm Hauptsächlich als Interpreter für ein vom User erstelltes Steuerprogramm.
+Das Steuerprogramm ist ein .txt File das sich auf dem Prüfer Gerät befindet.]]></s137>
+			<s138><![CDATA[HEADER_START	  	Startet den Header			HEADER
+HEADER_END		Beende den Header		HEADER
+PROG_NAME=STRING	Programm Name			HEADER
+DATE=STRING		Datum				HEADER
+USER_NAME=STRING	Benutzer Name			HEADER
+LOOP=ON/OFF		Wenn LOOP = ON, dann wiederholt 	HEADER
+			sich das Steuer-programm. 
+		
+
+
+PROGRAMM_START	Startet das Programm			PROGRAMM
+PROGRAMM_END		Beende das Programm			PROGRAMM
+GOTO=x:y		Gehe zur Koordinate von xy.			PROGRAMM
+MOV=x:y			Bewege dich um den Wert von xy.		PROGRAMM
+WAIT=ms		Warte die angegebene Anzahl Millisekunden	PROGRAMM
+PENUP			Stift hoch				PROGRAMM
+PENDOWN		Stift runter				PROGRAMM
+STARTPOINT=x:y		Neue Startpunkte bei den Koordinaten xy	PROGRAMM
+]]></s138>
+			<s139><![CDATA[HEADER_START	  	Startet den Header			HEADER
+HEADER_END		Beende den Header			HEADER
+PROG_NAME=STRING	Programm Name			HEADER
+DATE=STRING		Datum				HEADER
+USER_NAME=STRING	Benutzer Name			HEADER
+LOOP=ON/OFF		Wenn LOOP = ON, dann wiederholt 	HEADER
+			sich das Steuer-programm. 
+		
+
+
+PROGRAMM_START	Startet das Programm			PROGRAMM
+PROGRAMM_END		Beende das Programm			PROGRAMM
+GOTO=x:y		Gehe zur Koordinate von xy.			PROGRAMM
+MOV=x:y			Bewege dich um den Wert von xy.		PROGRAMM
+WAIT=ms			Warte die angegebene Anzahl Millisekunden	PROGRAMM
+PENUP			Stift hoch					PROGRAMM
+PENDOWN		Stift runter				PROGRAMM
+STARTPOINT=x:y		Neue Startpunkte bei den Koordinaten xy	PROGRAMM
+]]></s139>
+			<s140><![CDATA[Ein Beispiel Steuerprogramm:
+]]></s140>
+			<s141><![CDATA[Ein Beispiel Steuerprogramm:
+HEADER_START
+PROG_NAME = DUDA
+LOOP = ON
+DATE = 17.02.2014
+USER_NAME = Hansi
+HEADER_END
+
+PROGRAMM_START
+STARTPOINT 20:100
+MOV 100:40
+WAIT 50
+PENDOWN
+PENUP
+WAIT 50
+GOTO 900:500
+PROGRAMM_END
+
+]]></s141>
+			<s142><![CDATA[HEADER_START
+PROG_NAME = DUDA
+LOOP = ON
+DATE = 17.02.2014
+USER_NAME = Hansi
+HEADER_END
+
+PROGRAMM_START
+STARTPOINT 20:100
+MOV 100:40
+WAIT 50
+PENDOWN
+PENUP
+WAIT 50
+GOTO 900:500
+PROGRAMM_END]]></s142>
+			<s143><![CDATA[Beispiel Steuerprogramm]]></s143>
+			<s144><![CDATA[Beispiel Steuerprogramm:]]></s144>
+			<s145><![CDATA[Einstellungen]]></s145>
+			<s146><![CDATA[Einstellungen]]></s146>
+			<s147><![CDATA[Der Interne Dateipfad:]]></s147>
+			<s148><![CDATA[Filename des 
+Steuerprogramm]]></s148>
+			<s149><![CDATA[Eaton Automation Samuel A. Marti 31.03.2014 v1]]></s149>
+			<s150><![CDATA[Eaton Automation Samuel A. Marti 31.03.2014  v1]]></s150>
+			<s151><![CDATA[Eaton Automation Samuel A. Marti 31.03.2014  v1]]></s151>
+			<s152><![CDATA[Error:]]></s152>
+			<s153><![CDATA[wStater:]]></s153>
+			<s154><![CDATA[wState:]]></s154>
+			<s155><![CDATA[4:]]></s155>
+			<s156><![CDATA[Startpoint Teachen]]></s156>
+			<s157><![CDATA[5:]]></s157>
+			<s158><![CDATA[:]]></s158>
+			<s159><![CDATA[Go To]]></s159>
+			<s160><![CDATA[Startpoint]]></s160>
+			<s161><![CDATA[Startpoint Teachen]]></s161>
+			<s162><![CDATA[Startpoint Teachen]]></s162>
+			<s163><![CDATA[x]]></s163>
+			<s164><![CDATA[y]]></s164>
+			<s165><![CDATA[Die x und y Koordinaten sind in Milimeter anzugeben.]]></s165>
+			<s166><![CDATA[Go to]]></s166>
+			<s167><![CDATA[Als Startpoint setzten]]></s167>
+			<s168><![CDATA[Startpoint Teachen]]></s168>
+			<s169><![CDATA[Teach Startpoint]]></s169>
+			<s170><![CDATA[Current Position]]></s170>
+			<s171><![CDATA[Move Controll]]></s171>
+			<s172><![CDATA[Steps per move]]></s172>
+			<s173><![CDATA[x:]]></s173>
+			<s174><![CDATA[y:]]></s174>
+			<s175><![CDATA[Steps per move]]></s175>
+			<s176><![CDATA[max. X = 313]]></s176>
+			<s177><![CDATA[max. x = 313]]></s177>
+			<s178><![CDATA[max. y = 226]]></s178>
+		</standard>
+		<error>
+			<e0><![CDATA[]]></e0>
+		</error>
+		<help>
+			<h0><![CDATA[]]></h0>
+		</help>
+	</texts>
+</languagedata>

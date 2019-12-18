@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<languagedata>
+	<fileversion major='1' minor='5'/>
+	<systemkeyboard path="de_CH"/>
+	<textprint mode="text" fontid='0' size='10' bold='0' italic='0' underline='0' strikeout='0'/>
+	<fonts>
+		<font id='0' fontname="Arial" filename="Arial.ttf" fontsizefactor='100'/>
+		<font id='1' fontname="Tahoma" filename="Tahoma.ttf" fontsizefactor='100'/>
+	</fonts>
+	<texts>
+		<standard>
+			<s0><![CDATA[]]></s0>
+			<s1><![CDATA[TSR Applikation Direkter Zugriff]]></s1>
+			<s2><![CDATA[TSR Applikation direkter Zugriff]]></s2>
+			<s3><![CDATA[TSR Applikation Hauptmenü]]></s3>
+			<s4><![CDATA[Wählen sie den Gewünschten Modus.]]></s4>
+			<s5><![CDATA[direkter Zugriff]]></s5>
+			<s6><![CDATA[ST Programm ausführen]]></s6>
+			<s7><![CDATA[ST Programm 
+ausführen]]></s7>
+			<s8><![CDATA[ST Programm 
+ausführen]]></s8>
+			<s9><![CDATA[Einstellungen]]></s9>
+			<s10><![CDATA[Einstellungnen]]></s10>
+			<s11><![CDATA[Informationen]]></s11>
+			<s12><![CDATA[Informationen]]></s12>
+			<s13><![CDATA[TSR Applikation Einstellungen]]></s13>
+			<s14><![CDATA[Com Port:]]></s14>
+			<s15><![CDATA[Der Interne Dateipfad]]></s15>
+			<s16><![CDATA[Der Interne Dateipfad. Er wird benutzt um das ST Programm zu finden]]></s16>
+			<s17><![CDATA[Der Gewünschte Com-Port über dem Kommuniziert werden soll]]></s17>
+			<s18><![CDATA[Der Gewünschte COM Port über den Kommuniziert werden soll]]></s18>
+			<s19><![CDATA[Der Interne Dateipfad. 
+Er wird benutzt um das ST Programm zu finden]]></s19>
+			<s20><![CDATA[Das ST Programm beim Einlesen auf Fehler Testen ]]></s20>
+			<s21><![CDATA[Das ST Programm beim Einlesen auf Fehler Testen?]]></s21>
+			<s22><![CDATA[Ja]]></s22>
+			<s23><![CDATA[Nein]]></s23>
+			<s24><![CDATA[Zurück]]></s24>
+			<s25><![CDATA[Zurück]]></s25>
+			<s26><![CDATA[Momentane Position]]></s26>
+			<s27><![CDATA[Millimeter pro Bewegung]]></s27>
+			<s28><![CDATA[mm]]></s28>
+			<s29><![CDATA[mm]]></s29>
+			<s30><![CDATA[mm]]></s30>
+			<s31><![CDATA[GOTO Befehl]]></s31>
+			<s32><![CDATA[Go to Befehl]]></s32>
+			<s33><![CDATA[Go to Befehl]]></s33>
+			<s34><![CDATA[Go to]]></s34>
+			<s35><![CDATA[Go to]]></s35>
+			<s36><![CDATA[mm]]></s36>
+			<s37><![CDATA[mm]]></s37>
+			<s38><![CDATA[Move]]></s38>
+			<s39><![CDATA[Goto]]></s39>
+			<s40><![CDATA[Go to]]></s40>
+			<s41><![CDATA[Pen Up/Down]]></s41>
+			<s42><![CDATA[Informationen]]></s42>
+			<s43><![CDATA[Error]]></s43>
+			<s44><![CDATA[Reset]]></s44>
+			<s45><![CDATA[Reset]]></s45>
+			<s46><![CDATA[mm/x]]></s46>
+			<s47><![CDATA[mm/y]]></s47>
+			<s48><![CDATA[TSR Applikation wState Information]]></s48>
+			<s49><![CDATA[0	= Alles_Ok,
+1	= Error_beim_oeffnen,
+2	= Error_beim_Senden_von_einem_STRING_durch_das_COM_Port,
+3	= Error_beim_Empfangen_von_einem_STRING_durch_das_COM_Port,
+4	= Timeout_beim_COM_Port_oeffnen,
+5	= Timeout_beim_COM_Port_senden,
+6	= Timeout_beim_COM_Port_empfangen,
+7	= Es_ist_keine_Verbindunge_mit_dem_TSR_vorhanden,
+8	= TSR_hat_keine_korrekte_Antowrt_zurueckgegeben,
+9	= Der_TSR_befindet_sich_out_of_range,
+10	= Im_Header_des_ST_hat_es_einen_Fehler,
+11	= Im_Programm_des_ST_hat_es_einen_Fehler,
+12	= Syntax_Fehler_im_ST,
+13	= COM_Port_ist_nicht_Geoeffnet,
+14	= Timeout_beim_Click_weahrend_dem_Go_to_FB,
+15	= Timeout_beim_Click_weahrend_dem_Pen_FB,
+16	= Timeout_beim_Connect_weahrend_dem_TSR_COM,
+17	= Timeout_beim_Double_Click_weahrend_dem_Go_to_FB,
+18	= Timeout_beim_Double_Click_weahrend_dem_Pen_FB,
+19	= Timeout_beim_Get_position_weahrend_dem_TSR_COM,
+20	= Timeout_beim_Go_to_FB_Weahrend_dem_TSR_COM,
+21	= Timeout_beim_Progress_Wait_FB_Weahrend_dem_TSR_COM,
+22	= Timeout_beim_Pen_FB_Weahrend_dem_TSR_COM,
+23	= Error_beim_schliessen_vom_Com_Port,
+24	= Timeout_beim_Com_Port_schliessen]]></s49>
+			<s50><![CDATA[TSR Applikation ST Ausführen]]></s50>
+			<s51><![CDATA[TSR Applikation ST Programm Ausführen]]></s51>
+			<s52><![CDATA[TSR Applikation ST Programm Datei Name]]></s52>
+			<s53><![CDATA[Geben sie den Dateinamen des ST Programmes an.]]></s53>
+			<s54><![CDATA[Weiter]]></s54>
+			<s55><![CDATA[Weiter]]></s55>
+			<s56><![CDATA[ST Programm
+einlesen]]></s56>
+			<s57><![CDATA[Geben sie den Dateinamen des ST Programmes hier an.]]></s57>
+			<s58><![CDATA[TSR Applikation ST Programm Eingelesen]]></s58>
+			<s59><![CDATA[Wurde das ST Programm korrekt eingelesen?]]></s59>
+			<s60><![CDATA[Wurden Syntax oder out fo range Fehler im ST Programm]]></s60>
+			<s61><![CDATA[Wurden Syntax oder out fo range Fehler im ST Programm gefunden.]]></s61>
+			<s62><![CDATA[Wurden Syntax oder out fo range Fehler im ST Programm gefunden?]]></s62>
+			<s63><![CDATA[JA]]></s63>
+			<s64><![CDATA[Nein]]></s64>
+			<s65><![CDATA[Nein]]></s65>
+			<s66><![CDATA[JA]]></s66>
+			<s67><![CDATA[ST Header]]></s67>
+			<s68><![CDATA[Wurde der Header im ST Korrekt eingelesen]]></s68>
+			<s69><![CDATA[Wurde der Header vom ST Programm Korrekt eingelesen]]></s69>
+			<s70><![CDATA[Zurück/Reset]]></s70>
+			<s71><![CDATA[Zurück/Reset]]></s71>
+			<s72><![CDATA[Zurück/Reset]]></s72>
+			<s73><![CDATA[Zurück]]></s73>
+			<s74><![CDATA[NEIN]]></s74>
+			<s75><![CDATA[Datum:]]></s75>
+			<s76><![CDATA[JA]]></s76>
+			<s77><![CDATA[JA]]></s77>
+			<s78><![CDATA[Nein]]></s78>
+			<s79><![CDATA[Nein]]></s79>
+			<s80><![CDATA[JA]]></s80>
+			<s81><![CDATA[JA]]></s81>
+			<s82><![CDATA[Nein]]></s82>
+			<s83><![CDATA[Ist das ST Programm Fehlerfrei?]]></s83>
+			<s84><![CDATA[Abbruch/Reset]]></s84>
+			<s85><![CDATA[NEIN]]></s85>
+			<s86><![CDATA[Ja]]></s86>
+			<s87><![CDATA[Nein]]></s87>
+			<s88><![CDATA[Ja]]></s88>
+			<s89><![CDATA[Nein]]></s89>
+			<s90><![CDATA[Ja]]></s90>
+			<s91><![CDATA[Programm Starten]]></s91>
+			<s92><![CDATA[Ist das Programm am Arbeiten ?]]></s92>
+			<s93><![CDATA[TSR Applikation]]></s93>
+			<s94><![CDATA[Momentaner Befehl]]></s94>
+			<s95><![CDATA[Zurück]]></s95>
+			<s96><![CDATA[Anzahl Durchläufe]]></s96>
+			<s97><![CDATA[ST Programm
+Code]]></s97>
+			<s98><![CDATA[T]]></s98>
+			<s99><![CDATA[Tea]]></s99>
+			<s100><![CDATA[Teach Startpunkt]]></s100>
+			<s101><![CDATA[Teachen]]></s101>
+			<s102><![CDATA[Startpoint
+Teachen]]></s102>
+			<s103><![CDATA[Com Port]]></s103>
+			<s104><![CDATA[Teachen]]></s104>
+			<s105><![CDATA[Teachen]]></s105>
+			<s106><![CDATA[TSR Applikation Startpoint Teachen]]></s106>
+			<s107><![CDATA[Startpoint:]]></s107>
+			<s108><![CDATA[Steuerprogramm Informationen:]]></s108>
+			<s109><![CDATA[Reale Position]]></s109>
+			<s110><![CDATA[Startpoint Position:]]></s110>
+			<s111><![CDATA[Hardware]]></s111>
+			<s112><![CDATA[Virtuellen Startpoint
+Teachen]]></s112>
+			<s113><![CDATA[Startpoint
+Teachen]]></s113>
+			<s114><![CDATA[User Name:]]></s114>
+			<s115><![CDATA[Programm Name:]]></s115>
+			<s116><![CDATA[Hardware Position]]></s116>
+			<s117><![CDATA[Startpunkt Position]]></s117>
+			<s118><![CDATA[Virtuelle Position]]></s118>
+			<s119><![CDATA[TSR Applikation <<]]></s119>
+			<s120><![CDATA[TSR Applikation >> Datei Name]]></s120>
+			<s121><![CDATA[TSR Applikation >> Datei Name >> Set Startpoint]]></s121>
+			<s122><![CDATA[Loop:]]></s122>
+			<s123><![CDATA[OFF]]></s123>
+			<s124><![CDATA[ON]]></s124>
+			<s125><![CDATA[TSR Applikation >> Datei Name >> Einlesen]]></s125>
+			<s126><![CDATA[TSR Applikation >> Datei Name >> Einlesen >> Set Startpoint]]></s126>
+			<s127><![CDATA[TSR Applikation >> Datei Name >> Einlesen >> Set Startpoint >> Ausführen]]></s127>
+			<s128><![CDATA[TSR Applikation <<  Direkter Zugriff]]></s128>
+			<s129><![CDATA[TSR Applikation << Einstellungen]]></s129>
+			<s130><![CDATA[TSR Applikation]]></s130>
+			<s131><![CDATA[TSR Applikation << Informationen]]></s131>
+			<s132><![CDATA[wState Information]]></s132>
+			<s137><![CDATA[Mit diesem Programm kann man den TSR ansteuern. Dabei dient dieses
+Programm Hauptsächlich als Interpreter für ein vom User erstelltes Steuerprogramm.
+Das Steuerprogramm ist ein .txt File das sich auf dem Prüfer Gerät befindet.]]></s137>
+			<s145><![CDATA[Einstellungen]]></s145>
+			<s152><![CDATA[Error:]]></s152>
+			<s154><![CDATA[wState:]]></s154>
+			<s166><![CDATA[Go to]]></s166>
+			<s168><![CDATA[Startpoint Teachen]]></s168>
+			<s170><![CDATA[Current Position]]></s170>
+			<s171><![CDATA[Move Controll]]></s171>
+			<s173><![CDATA[x:]]></s173>
+			<s174><![CDATA[y:]]></s174>
+			<s175><![CDATA[Steps per move]]></s175>
+			<s177><![CDATA[max. x = 313]]></s177>
+			<s178><![CDATA[max. y = 226]]></s178>
+			<s179><![CDATA[ST Programm Code]]></s179>
+		</standard>
+		<error>
+			<e0><![CDATA[]]></e0>
+		</error>
+		<help>
+			<h0><![CDATA[]]></h0>
+		</help>
+	</texts>
+</languagedata>

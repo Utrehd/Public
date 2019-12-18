@@ -1,0 +1,27 @@
+Changelog TSR Library Samuel A. Marti Eaton Automation
+__________________________________________________________________
+26.05.2014 V6>>V7:
+
+- Die Martische Notation wurde akutaliesiert und durchgesetzt.
+  Ausgenommen sind die Ein/Ausgägne der Funktion/Funktionsblöcken.
+__________________________________________________________________
+
+27.05.2014 V7>>V8:
+
+- FB Connect with TSR, soll nun den COM Port schliessen können.
+__________________________________________________________________
+
+28.05.2014 V8>>V9:
+
+- FB Klick erstellt.
+__________________________________________________________________
+
+02.06.2014 V9>>V10:
+
+- FB double Klick erstellt, Alle wstates überarbeite und neue 
+  Hinzugefügt.
+__________________________________________________________________
+04.06.2014 V10>>V11:
+
+- Die Parameter Liste beim FB TSR_Com korrigieren.
+__________________________________________________________________

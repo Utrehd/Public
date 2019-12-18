@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
+  <Header>
+    <Version>3.5.5.0</Version>
+    <SymbolConfigObject version="3.5.5.50" />
+    <ProjectInfo name="TSR Applikation" devicename="XV100" appname="Application" />
+  </Header>
+  <TypeList>
+    <TypeSimple name="T_BOOL" size="1" swapsize="0" typeclass="Bool" iecname="BOOL" />
+    <TypeSimple name="T_STRING" size="81" swapsize="0" typeclass="String" iecname="STRING" />
+    <TypeSimple name="T_INT" size="2" swapsize="2" typeclass="Int" iecname="INT" />
+    <TypeSimple name="T_WORD" size="2" swapsize="2" typeclass="Word" iecname="WORD" />
+  </TypeList>
+  <NodeList>
+    <Node name="Application">
+      <Node name="MAIN">
+        <Node name="LTi_ComPort" type="T_INT" access="ReadWrite" />
+        <Node name="LTi_CounterDurchlauf" type="T_INT" access="ReadWrite" />
+        <Node name="LTi_Startpunktx" type="T_INT" access="ReadWrite" />
+        <Node name="LTi_Startpunkty" type="T_INT" access="ReadWrite" />
+        <Node name="LTi_Step" type="T_INT" access="ReadWrite" />
+        <Node name="LTi_VirtuPosx" type="T_INT" access="ReadWrite" />
+        <Node name="LTi_VirtuPosy" type="T_INT" access="ReadWrite" />
+        <Node name="LTi_xPos" type="T_INT" access="ReadWrite" />
+        <Node name="LTi_xTeach" type="T_INT" access="ReadWrite" />
+        <Node name="LTi_yPos" type="T_INT" access="ReadWrite" />
+        <Node name="LTi_yTeach" type="T_INT" access="ReadWrite" />
+        <Node name="LTst_DATE" type="T_STRING" access="ReadWrite" />
+        <Node name="LTst_Dateipfad" type="T_STRING" access="ReadWrite" />
+        <Node name="LTst_DateipfadEinlesen" type="T_STRING" access="ReadWrite" />
+        <Node name="LTst_Line" type="T_STRING" access="ReadWrite" />
+        <Node name="LTst_PROG_NAME" type="T_STRING" access="ReadWrite" />
+        <Node name="LTst_USER_NAME" type="T_STRING" access="ReadWrite" />
+        <Node name="LTw_wState" type="T_WORD" access="ReadWrite" />
+        <Node name="LTx_Abbruch" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_AbbruchDirekteSteuerung" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_AbbruchSTProgramm" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_Connectet" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_DoneEinlesen" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_Error" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_GotoTeach" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_HeaderDone" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_HeaderRead" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_Loop" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_PenDownTaste" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_PenUpTaste" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_PfeilLinks" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_PfeilOben" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_PfeilRechts" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_PfeilUnten" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_ProgrammRead" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_ProgrammStop" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_ProgramON" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_StartEinlesen" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_StartpointTeach" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_SyntaxOk" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_SyntaxTest" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_TeachenEin" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_Unbedinbar" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_UnbedinbarPenDown" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_UnbedinbarPenUp" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_UnbedinbarPfeilLinks" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_UnbedinbarPfeilOben" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_UnbedinbarPfeilRechts" type="T_BOOL" access="ReadWrite" />
+        <Node name="LTx_UnbedinbarPfeilUnten" type="T_BOOL" access="ReadWrite" />
+      </Node>
+    </Node>
+  </NodeList>
+</Symbolconfiguration>

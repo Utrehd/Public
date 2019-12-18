@@ -1,0 +1,4 @@
+Changelog TSR Galileo Samuel A. Marti Eaton Automation
+__________________________________________________________________
+19.06.2014 V2>>V3:
+Die GUI wurde komplett angepasst an die Applikations version V9.

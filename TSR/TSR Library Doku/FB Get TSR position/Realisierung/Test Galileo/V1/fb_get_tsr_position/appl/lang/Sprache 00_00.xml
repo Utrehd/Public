@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<languagedata>
+	<fileversion major='1' minor='5'/>
+	<systemkeyboard path="de_CH"/>
+	<textprint mode="text" fontid='0' size='10' bold='0' italic='0' underline='0' strikeout='0'/>
+	<fonts>
+		<font id='0' fontname="Arial" filename="Arial.ttf" fontsizefactor='100'/>
+		<font id='1' fontname="Tahoma" filename="Tahoma.ttf" fontsizefactor='100'/>
+	</fonts>
+	<texts>
+		<standard>
+			<s0><![CDATA[]]></s0>
+			<s1><![CDATA[TSR Com]]></s1>
+			<s2><![CDATA[xExecute]]></s2>
+			<s3><![CDATA[iCom]]></s3>
+			<s4><![CDATA[xError]]></s4>
+			<s5><![CDATA[xDone]]></s5>
+			<s6><![CDATA[xBusy]]></s6>
+			<s7><![CDATA[wState]]></s7>
+			<s8><![CDATA[stReceivedData]]></s8>
+			<s9><![CDATA[stSendData]]></s9>
+			<s10><![CDATA[FB TSR Com]]></s10>
+			<s11><![CDATA[FB Move xy]]></s11>
+			<s12><![CDATA[iMovx]]></s12>
+			<s13><![CDATA[iMovy]]></s13>
+			<s14><![CDATA[xExecute]]></s14>
+			<s15><![CDATA[ON]]></s15>
+			<s16><![CDATA[OFF]]></s16>
+			<s17><![CDATA[FB Get TSR position]]></s17>
+			<s18><![CDATA[iPosy]]></s18>
+			<s19><![CDATA[iPosy]]></s19>
+			<s20><![CDATA[iPosx]]></s20>
+		</standard>
+		<error>
+			<e0><![CDATA[]]></e0>
+		</error>
+		<help>
+			<h0><![CDATA[]]></h0>
+		</help>
+	</texts>
+</languagedata>

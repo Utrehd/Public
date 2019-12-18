@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
+  <Header>
+    <Version>3.5.3.50</Version>
+    <SymbolConfigObject version="3.5.3.50" />
+    <ProjectInfo name="Connect with TSR" devicename="XV100" appname="Application" />
+  </Header>
+  <TypeList>
+    <TypeSimple name="T_BOOL" size="1" swapsize="0" typeclass="Bool" iecname="BOOL" />
+    <TypeSimple name="T_INT" size="2" swapsize="2" typeclass="Int" iecname="INT" />
+    <TypeSimple name="T_WORD" size="2" swapsize="2" typeclass="Word" iecname="WORD" />
+  </TypeList>
+  <NodeList>
+    <Node name="Application">
+      <Node name="MAIN">
+        <Node name="iCom" type="T_INT" access="ReadWrite" />
+        <Node name="wState" type="T_WORD" access="ReadWrite" />
+        <Node name="xBusy" type="T_BOOL" access="ReadWrite" />
+        <Node name="xDone" type="T_BOOL" access="ReadWrite" />
+        <Node name="xError" type="T_BOOL" access="ReadWrite" />
+        <Node name="xEXecute" type="T_BOOL" access="ReadWrite" />
+      </Node>
+    </Node>
+  </NodeList>
+</Symbolconfiguration>
